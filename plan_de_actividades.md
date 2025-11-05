@@ -14,7 +14,7 @@ Diseño y casos de uso: 16/11/2025 – 22/11/2025
 Arquitectura y base de datos: 23/11/2025 – 30/11/2025
 Desarrollo del sistema: 01/12/2025 – 20/01/2026
 Pruebas y mejoras: 21/01/2026 – 30/01/2026
-Documentación y entrega: 01/02/2026 – 05/02/2026
+Documentación y entrega: 01/02/2026 – 05/02/2026.
 
 
 ▪ Responsables (puedes asignarte uno o varios roles)
