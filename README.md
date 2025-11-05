@@ -1,4 +1,4 @@
-# Planeaci-n_Proyecto_JuanDavidSanmiguelArtunduaga
+# Planeacion_Proyecto_JuanDavidSanmiguelArtunduaga
 
 Propósito del proyecto
 
